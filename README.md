@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ardnys (or you might know my real name)</h1>
 <h3 align="center">a curious programmer and software engineering student</h3>
 
-- 🔭 I’m currently working on [Assisted Hangman](https://github.com/Ardnys/UniAssignments/tree/main/4thSemester/HangmanAssist)
+- 🔭 I’m currently working on [Styling PyQt5 GUI](https://github.com/Ardnys/Qt-Projects) and SQL
 
 - 🌱 I’m currently learning **Rust, Unity**
 
