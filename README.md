@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ardnys (or you might know my real name)</h1>
 <h3 align="center">a curious programmer and software engineering student</h3>
 
-- 🔭 I’m currently working on midterms 
+- 🔭 I’m currently working on howeworks & finals 
 
 - 🌱 I’m currently learning **Rust, Unity, SQL**
 
