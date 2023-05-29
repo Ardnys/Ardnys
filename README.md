@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on howeworks & finals 
 
-- 🌱 I’m currently learning **Rust, Unity, SQL**
+- 🌱 I’m currently learning **Rust, SQL**
 
 - ⚡ Fun fact **I can use chopsticks with my left hand**
 
