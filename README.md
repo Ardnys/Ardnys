@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Crafting Interpreters, Rustlings, [random personal projects](https://github.com/Ardnys/ASCII-Arts)
 
-- 🌱 I’m currently learning **Rust, Operating Systems, Mobile App Development**
+- 🌱 I’m currently learning **Rust, C, Mobile App Development**
 
 - ⚡ Fun fact **I can use chopsticks with my left hand**
 
