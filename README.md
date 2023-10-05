@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ardnys (or you might know my real name)</h1>
 <h3 align="center">a curious programmer and software engineering student</h3>
 
-- 🔭 I’m currently working on [random personal projects](https://github.com/Ardnys/TheWorstFormatter)
+- 🔭 I’m currently working on reading books before the assignemnts start flooding in
 
-- 🌱 I’m currently learning **C, Networking**
+- 🌱 I’m currently learning **C, Operating Systems, Databases, Frontend**
 
 - ⚡ Fun fact **I can use chopsticks with my left hand**
 
