@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ardnys (or you might know my real name)</h1>
 <h3 align="center">a curious programmer and software engineering student</h3>
 
-- 🔭 I’m currently working on making oracle db work :(, lots of uni projects, SQL
+- 🔭 I’m currently working on Backend for the [React Website](https://github.com/Ardnys/Smasnug), Planning the uni projects, SQL
 
 - 🌱 I’m currently learning **Operating Systems, Databases, WebDev**
 
