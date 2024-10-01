@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ardnys (or you might know my real name)</h1>
 <h3 align="center">a curious programmer and software engineering student</h3>
 
-- 🔭 I’m currently working on **secret terminal applications in rust**
+- 🔭 I’m currently working on **a lot of things actually i can't even begin**
 
-- 🌱 I’m currently learning **resting**
+- 🌱 I’m currently learning **to be a punk rock star \M/ o ye brotha**
 
 - ⚡ Fun fact **I can use chopsticks with my left hand**
 
