@@ -4,8 +4,6 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/Ardnys?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/Ardnys?tab=repositories)
 ![Profile views](https://komarev.com/ghpvc/?username=Ardnys&color=blueviolet)
 
-> Fueled by determination and guided by curiosity. Traction control off, flat out, hands off the wheel, basically.
-
 ---
 
 ## 🛠️ Languages & Frameworks
@@ -51,17 +49,13 @@ I have worked with languages | libraries | frameworks below. Currently focused o
 ## 📝 Recent Projects
 
 
-### <img src="https://github.com/Ardnys/venv-rs/blob/main/images/venv_rs_logo.png" alt="Project Logo" width="32" /> [venv-rs](https://github.com/Ardnys/venv-rs)
+### [venv-rs](https://github.com/Ardnys/venv-rs)
 _TUI tool for managing Python virtual environments. Written in Rust & ratatui_
-
-**Interesting Meter:** ▓▓▓░░░░░░░ (3/10)
 
 ---
 
 ### [quip](https://github.com/Ardnys/quip)
 _Stream your desktop application to a browser tab_
-
-**Interesting Meter:** ▓▓▓▓▓▓▓░░░ (7/10)
 
 ---
 
