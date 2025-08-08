@@ -48,16 +48,48 @@ I have worked with languages | libraries | frameworks below. Currently focused o
 
 ## 📝 Recent Projects
 
-
-### [venv-rs](https://github.com/Ardnys/venv-rs)
-_TUI tool for managing Python virtual environments. Written in Rust & ratatui_
+<table>
+<tr>
+<td width="120">
+  <img src="https://github.com/Ardnys/venv-rs/blob/main/images/venv_rs_logo.png" width="120">
+</td>
+<td>
+  <h3><a href="https://github.com/Ardnys/venv-rs">venv-rs</a></h3>
+  <em>TUI tool for managing Python virtual environments. Written in Rust & ratatui</em>
+</td>
+</tr>
+</table>
 
 ---
 
-### [quip](https://github.com/Ardnys/quip)
-_Stream your desktop application to a browser tab_
+<table>
+<tr>
+<td width="120">
+  <img src="https://github.com/Ardnys/loophack/blob/master/images/loophack_logo.png" width="120">
+</td>
+<td>
+  <h3><a href="https://github.com/Ardnys/loophack">Loophack</a></h3>
+  <em>Stream your desktop application to a browser tab. Written in Rust & webrtc-rs & axum</em>
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="120">
+  <img src="https://github.com/Ardnys/it-isqs-community/blob/master/public/assets/collaboration.svg" width="120">
+</td>
+<td>
+  <h3><a href="https://github.com/Ardnys/it-isqs-community">IT-ISQS Community Website</a></h3>
+  <em>Community website for the IT-ISQS Erasmus+ Project. Written in TypeScript. Powered by Supabase & Vercel</em>
+</td>
+</tr>
+</table>
+
+---
+
 
 ## 🛠️ Language Stats
 
