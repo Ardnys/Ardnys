@@ -51,6 +51,20 @@ I have worked with languages | libraries | frameworks below. Currently focused o
 <table>
 <tr>
 <td width="120">
+  <img src="https://raw.githubusercontent.com/Ardnys/SaidAndDone/refs/heads/master/images/said_and_done_logo.png" width="120">
+</td>
+<td>
+  <h3><a href="https://github.com/Ardnys/SaidAndDone">Said & Done</a></h3>
+  <em>An AI journaling assistant that helps you maintain a daily journal and provides personalized insights.</em>
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="120">
   <img src="https://github.com/Ardnys/venv-rs/blob/main/images/venv_rs_logo.png" width="120">
 </td>
 <td>
