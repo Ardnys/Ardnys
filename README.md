@@ -107,13 +107,13 @@ I have worked with languages | libraries | frameworks below. Currently focused o
 
 ## 🛠️ Language Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardnys&layout=compact&hide_title=true&langs_count=6&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardnys&layout=donut&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=6&hide=css,scss,html,jupyter%20notebook)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ardnys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardnys&show_icons=true&theme=radical&hide_title=true)
+![Ardnys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardnys&show_icons=true&theme=transparent&hide_title=true)
 
 ---
 
